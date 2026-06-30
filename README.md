@@ -2,17 +2,21 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ```ruby
-class cCarllos
+class CarlosCaldeira
   def initialize
-    @name = "Carlos Henrique"
-    @role = "Full Stack Developer"
+    @name = "Carlos Caldeira"
+    @role = "Senior Full Stack Software Engineer"
     @location = "Brazil"
+    @stack = [
+      "Ruby on Rails", "Node.js + TS", "Python", "AWS", "PostgreSQL"
+    ]
+    @philosophy = "Clean Architecture • Real impact"
   end
 end
 
-if __FILE__ == $0
-  me = cCarllos.new
-  puts me
+if __FILE__ == $PROGRAM_NAME
+  me = CarlosCaldeira.new
+  puts me|
 end
 ```
 
