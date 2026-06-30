@@ -1,4 +1,4 @@
-## "Abandonai toda a esperança vós que aqui entrais"
+## "Full Stack Software Engineer | Ruby on Rails • Node.js/TypeScript • AWS • IA/LLMs"
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ```ruby
