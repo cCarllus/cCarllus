@@ -1,4 +1,4 @@
-## "Full Stack Software Engineer | Ruby on Rails • Node.js/TypeScript • AWS • IA/LLMs"
+## "Abandonai toda esperança, vós que ousais entrar neste perfil."
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ```ruby
